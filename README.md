@@ -1,4 +1,4 @@
-# TermuxAPI-C-
+# TermuxAPI-C++
 
 TermuxAPI Wrapper for C++
 
